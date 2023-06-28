@@ -1,0 +1,15 @@
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/bin/Debug/net7.0/Terreno
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/bin/Debug/net7.0/Terreno.deps.json
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/bin/Debug/net7.0/Terreno.runtimeconfig.json
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/bin/Debug/net7.0/Terreno.dll
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/bin/Debug/net7.0/Terreno.pdb
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/Terreno.csproj.AssemblyReference.cache
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/Terreno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/Terreno.AssemblyInfoInputs.cache
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/Terreno.AssemblyInfo.cs
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/Terreno.csproj.CoreCompileInputs.cache
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/Terreno.dll
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/refint/Terreno.dll
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/Terreno.pdb
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/Terreno.genruntimeconfig.cache
+/Users/urielprocopio/Projects/ListaDeExercicio 3/Terreno/obj/Debug/net7.0/ref/Terreno.dll

@@ -1,0 +1,15 @@
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.deps.json
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.runtimeconfig.json
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.dll
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/bin/Debug/net7.0/JogoDaVelha.pdb
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.csproj.AssemblyReference.cache
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.AssemblyInfoInputs.cache
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.AssemblyInfo.cs
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.csproj.CoreCompileInputs.cache
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.dll
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/refint/JogoDaVelha.dll
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.pdb
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/JogoDaVelha.genruntimeconfig.cache
+/Users/urielprocopio/Projects/ListaDeExercicio 3/JogoDaVelha/obj/Debug/net7.0/ref/JogoDaVelha.dll
